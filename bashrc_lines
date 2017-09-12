@@ -1,0 +1,1 @@
+npm config set init-module "/Users/bonnie/src/.nodeconfig/npm-init.js"
