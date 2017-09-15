@@ -20,4 +20,4 @@ fi
 mkdir $1
 cd $1
 npm init --yes
-yarn install
+npm install
